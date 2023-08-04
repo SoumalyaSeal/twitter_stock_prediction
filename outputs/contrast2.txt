@@ -1,0 +1,8 @@
+like xxx1than yyy-3.4473329@2.648157
+prefer xxx1over yyy-3.4694612@2.596381
+prefer xxx1to yyy-3.279323@2.6661694
+switch to xxx1from yyy-3.7519279@2.2488952
+like xxx1than xxx-3.3143613@2.9074082
+prefer xxx1over xxx-3.2103386@2.3925438
+prefer xxx1to xxx-2.8775983@2.5219033
+switch to xxx1from xxx-3.4658718@2.5482717

@@ -1,0 +1,22 @@
+indusind	0.50567096	91	46.01605736
+lic housing	0.4527465	39	17.6571135
+dish tv	0.34111953	33	11.25694449
+ultratech	0.31338748	45	14.1024366
+allahabad	0.2727413	155	42.2749015
+jet	0.2463438	93	22.9099734
+yes	0.23248959	90	20.9240631
+federal bank	0.23216228	35	8.1256798
+uco 	0.20405209	145	29.58755305
+bata	0.2031734	60	12.190404
+zee	0.18720278	169	31.63726982
+pnb	0.18491456	221	40.86611776
+hcl	0.18481113	125	23.10139125
+andhra	0.18370982	136	24.98453552
+spicejet	0.17786637	36	6.40318932
+
+these r d top 15 companies
+if I delete lic, dish, ultratech, federal, spicejet (not in top 10), rho = 0.229177 cutoff = 60
+if I keep ultratech n lic (which 2 r in d top 20 of the list for lines*rho), rho = 0.2510 cutoff = 39
+if I do simply top 10, then rho = 0.286317 cutoff =33
+u decide which 10 companies, or run for all 15 n then we'll choose 10. 
+making d orgvalues for all 15
